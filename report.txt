@@ -2,3 +2,13 @@
 2. Components
 3. Setting up the environment
 
+20/11/2020
+1. Lists and Conditionals
+
+21/11/2020
+1.Styling react components
+
+24/11/2020
+1. JSX
+
+
