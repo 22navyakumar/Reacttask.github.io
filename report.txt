@@ -9,6 +9,20 @@
 1.Styling react components
 
 24/11/2020
-1. JSX
+1. Understanding JSX
+
+25/11/2020
+Understanding error messages
+Working with react devloper tools
+
+26/11/2020
+Routing
+
+28/11/2020
+Forms and validation
+
+29/11/2020
+Redux
+
 
 
